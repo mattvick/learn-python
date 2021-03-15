@@ -16,3 +16,4 @@ Download and install the following software:
 
 ## Day 1 - ???
 
+Can we connect Jupyter to OpenAI??
