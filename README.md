@@ -5,7 +5,7 @@
 ### Overview
 
 * [Jupyter notebooks](https://jupyter.org/) - web-based interactive development environment
-* [Miniconda] - open-source package management system and environment management system
+* [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - open-source package management system and environment management system
 
 ### Computer setup tasks
 
