@@ -18,7 +18,24 @@ Download and install the following software:
 
 Can we connect Jupyter to OpenAI??
 
-## Day 2 - ???
+## Day 2 - Project and account setup
+
+### Topics
+
+* Where to find help - where?
+* Terminal and commands - [iTerm2](https://iterm2.com/)
+* macOS package management - [Homebrew](https://brew.sh/)
+
+### Python Documentation
+
+To do add links here...
+
+### Computer setup tasks
+
+Download and install the following applications:
+
+1. [iTerm2](https://iterm2.com/)
+1. [Homebrew](https://brew.sh/)
 
 ## Day 3 - Git setup and pushing changes
 
@@ -31,6 +48,7 @@ Typically when setting up a new project this would be the first step. To gently 
 
 ### Account and authentication setup tasks
 
+1. If needed brew install Git `brew install git`
 1. Create a [GitLab](https://about.gitlab.com/) account
 1. [Generate an SSH key pair](https://docs.gitlab.com/ee/ssh/#generate-an-ssh-key-pair)
 1. [Add the public SSH key to your GitLab account](https://docs.gitlab.com/ee/ssh/#add-an-ssh-key-to-your-gitlab-account)
