@@ -9,8 +9,10 @@
 
 ### Computer setup tasks
 
-1. [Install Miniconda](https://conda.io/projects/conda/en/latest/user-guide/install/macos.html)
-1. [Install Jupyter](https://jupyter.org/install) 
+Download and install the following software:
+
+1. [Miniconda](https://conda.io/projects/conda/en/latest/user-guide/install/macos.html)
+1. [Jupyter](https://jupyter.org/install) 
 
 ## Day 1 - ???
 
