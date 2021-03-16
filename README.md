@@ -4,19 +4,20 @@
 
 ### Overview
 
-* [Jupyter notebooks](https://jupyter.org/) - web-based interactive development environment
 * [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - open-source package management system and environment management system
+* [Jupyter notebooks](https://jupyter.org/) - web-based interactive development environment
 
 ### Computer setup tasks
 
 Download and install the following software:
 
-1. [Miniconda](https://conda.io/projects/conda/en/latest/user-guide/install/macos.html)
+1. [Miniconda](https://conda .io/projects/conda/en/latest/user-guide/install/macos.html)
 1. [Jupyter](https://jupyter.org/install) 
 
-## Day 1 - OpenAI
+## Day 1 - Crash course and cheatsheets
 
-Can we connect Jupyter to OpenAI??
+* [Python crash course](https://www.freecodecamp.org/news/python-crash-course/)
+* [Python cheatsheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
 
 ## Day 2 - Project and account setup
 
@@ -78,3 +79,5 @@ Typically when setting up a new project this would be the first step. To gently 
 1. Viewing file diffs (changes) 
 1. Commit and push changes
 1. Pulling changes
+
+## Day 4 - OpenAI
